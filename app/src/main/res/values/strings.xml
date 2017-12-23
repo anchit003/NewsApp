@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="section">section</string>
+    <string name="title">Title is here</string>
+    <string name="type">Type</string>
+    <string name="type_name">Type-name</string>
+    <string name="no_connextion">No Connection</string>
+    <string name="no_news">No news</string>
+    <string name="titlee">Settings</string>
+    <string name="settings_topic_l">Search</string>
+    <string name="settings_topic_k" translatable="false">Search</string>
+    <string name="settings_topic_d" translatable="false">taiwan</string>
+</resources>
